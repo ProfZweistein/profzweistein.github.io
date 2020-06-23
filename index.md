@@ -7,3 +7,5 @@ Das ist ein Testcharakter, der fliegen kann, sehr stark ist und Laseraugen besit
 * bester Freund von Testcharakter2
 * hat Spaß am Programmieren
 * mag Theaterstücke
+
+> Der Preis der Größe heißt Verantwortung
